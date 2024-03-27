@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Laura Khotemlyansky 
 
 Hello! Welcome to my personal website. 
@@ -13,3 +14,8 @@ Connect with me on:
 
 ## Electrical and Computer Engineering
 - 
+=======
+# EE201
+text
+more text
+>>>>>>> 1ff56cb (test)
