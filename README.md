@@ -8,8 +8,8 @@ Hello! Welcome to my personal website.
 I am a sophmore studying Electrical and Computer Engineering. I love weightlifting, F1, and thrifting!
 
 Connect with me on:
-[LinkedIn](https://www.linkedin.com/in/laura-khot) 🎱
-[Email](https://www.linkedin.com/in/laura-khot)
+- [LinkedIn](https://www.linkedin.com/in/laura-khot) 🎱
+- [Email](https://www.linkedin.com/in/laura-khot)
 
 ## Electrical and Computer Engineering
 - 
