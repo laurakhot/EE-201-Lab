@@ -19,3 +19,4 @@ Connect with me on:
 text
 more text
 >>>>>>> 1ff56cb (test)
+text file
